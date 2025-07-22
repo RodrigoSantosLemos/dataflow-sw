@@ -8,12 +8,7 @@ Construir um pipeline de ingestão, transformação e consulta de dados utilizan
 
 🛠️ Tecnologias Utilizadas
 
-**Python**: coleta de dados da API [SWAPI](https://swapi.dev/)
-**Pandas**: tratamento e exportação para CSV
-**Amazon S3**: armazenamento dos dados em data lake
-**AWS Glue + Lake Formation**: catálogo de dados e permissões
-**Amazon Athena**: consultas SQL no data lake
-**Power BI**: visualização dos dados
+<img width="419" height="114" alt="image" src="https://github.com/user-attachments/assets/075bdd3d-ed91-4c8f-b2f8-adea6a7eb874" />
 
 🗂️ Estrutura do Projeto
 

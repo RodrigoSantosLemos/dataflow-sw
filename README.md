@@ -39,8 +39,7 @@ dataflow-sw/
 ├── glue-trust-policy.json             
 │
 ├── .gitignore
-├── README.md
-└── requirements.txt (opcional)
+└──  README.md
 
 
 <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/ee8bad0e-47fd-4cad-9821-03f8eca1103b" />

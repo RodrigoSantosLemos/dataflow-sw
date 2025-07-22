@@ -46,5 +46,6 @@ dataflow-sw/
 <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/ee8bad0e-47fd-4cad-9821-03f8eca1103b" />
 
 🚀 Próximos Passos (envolve custos)
-Automatizar coleta via Lambda + CloudWatch
-Adicionar monitoramento (SNS)
+
+- Automatizar coleta via Lambda + CloudWatch
+- Adicionar monitoramento (SNS)

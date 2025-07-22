@@ -17,29 +17,7 @@ Construir um pipeline de ingestão, transformação e consulta de dados utilizan
 
 🗂️ Estrutura do Projeto
 
-dataflow-sw/
-├── data/
-│   ├── processed/              
-│   └── raw/                    
-│
-├── doc/                        
-│
-├── scripts/                    
-│   ├── extract-swapi-films.py
-│   ├── extract-swapi-people.py
-│   ├── extract-swapi-planets.py
-│   ├── extract-swapi-species.py
-│   ├── extract-swapi-starships.py
-│   └── extract-swapi-vehicles.py
-│
-├── sql/                        
-│
-├── glue_starwars_policy_full.json     
-├── glue-inline-policy.json            
-├── glue-trust-policy.json             
-│
-├── .gitignore
-└──  README.md
+<img width="240" height="410" alt="image" src="https://github.com/user-attachments/assets/dc60b10d-0d1e-47e0-a3bf-4a30362bf5ef" />
 
 
 <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/ee8bad0e-47fd-4cad-9821-03f8eca1103b" />

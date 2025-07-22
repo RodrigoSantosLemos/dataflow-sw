@@ -10,8 +10,8 @@
           "s3:PutObject"
         ],
         "Resource": [
-          "arn:aws:s3:::starwars-datalake-rodrigo",
-          "arn:aws:s3:::starwars-datalake-rodrigo/*"
+          "arn:aws:s3:::starwars-datalake",
+          "arn:aws:s3:::starwars-datalake/*"
         ]
       },
       {
